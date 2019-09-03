@@ -36,7 +36,7 @@ jQuery(document).ready(function($) {
 	// and run it again every time you scroll
 	$(window).scroll(function() {
 		 sticky_navigation();
-		 initio_parallax_animation();
+		 //initio_parallax_animation(); disabled
 	});
 
 });
